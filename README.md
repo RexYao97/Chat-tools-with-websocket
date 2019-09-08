@@ -1,6 +1,11 @@
 # Chat-tools-with-websocket
 bliud a chat tools use webcoket and html
 
++ 插件
+```npm
+npm install ws
+npm install express
+```
 + 使用说明
 
   ```javascript
